@@ -1,0 +1,40 @@
+#user-container {
+    display: flex;
+}
+.user-info {
+    text-align: center;
+    font-family: Trebuchet MS, Arial, Times New Roman;
+    font-size: 18px;
+    color: #ffff;
+    height: 650px;
+    border: 1px solid #000000;
+    background-color:#3b3b3b; 
+    width:50%
+    
+}
+img {
+    width: 100%;
+}
+.button-container {
+  text-align: center;
+  background-color: #818181;
+  width: 100%;
+}
+.button {
+
+  padding: 12px;
+  border: 3px solid #616161;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #3b3b3b; 
+  cursor: pointer;
+  font-family: Trebuchet MS, Arial, Times New Roman;
+  font-size: 16px;
+}
+#success-message {
+  text-align: center;
+  color: #fff;
+  margin-top: 5px;
+  font-size: 18px;
+  font-family: Trebuchet MS, Arial, Times New Roman;
+}
